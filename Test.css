@@ -1,0 +1,31 @@
+/* Background */
+
+.jumbotron{background-image: url("Background.jpg")}
+
+/* Typeface */
+
+h1{
+    font-weight:bold !important;
+    font-size: 5em !important;}
+
+
+/* Colouring */
+
+h1{color: #f9ce60 !important;}
+#subtitle{color: #00006f}
+p{color: #000000}
+
+
+/* Spacing */
+
+body{padding: 1em;}
+h1{text-align: center;}
+#subtitle{text-align: left;}
+p{text-align: justify;}
+.carousel-inner img {margin: auto;}
+
+/* Sizing */
+
+/* Visibility */
+
+.hidden{visibility: hidden;}
